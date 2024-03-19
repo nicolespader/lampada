@@ -1,0 +1,12 @@
+img{
+    width: 20vw;
+    border-radius: 50%;
+    margin: 10vw;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
